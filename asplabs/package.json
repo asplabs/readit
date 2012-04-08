@@ -1,8 +1,0 @@
-{
-  "name": "asplabs",
-  "version": "1.0.0",
-  "dependencies": {
-    "express": "2.0.0",
-    "underscore": ""
-  }
-}
