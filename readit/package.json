@@ -1,10 +1,10 @@
 {
-  "name": "readit",
-  "version": "1.0.0",
-  "dependencies": {
-    "express": "",
-    "underscore": "",
-    "backbone": "",
-    "dot": ""
-  }
+    "name": "readit",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "*",
+        "stylus": "*",
+        "jade": "*"
+    }
 }
